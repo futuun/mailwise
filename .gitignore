@@ -1,0 +1,5 @@
+target/
+*.db
+*.gguf
+.mailwise/
+.DS_Store
